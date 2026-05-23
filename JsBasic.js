@@ -11,3 +11,9 @@ console.log("oh wait...");
 */
 console.log("The rest of the 'console.log'/s' are basically written out ");
 console.log("as you can see the rest of the words are written out");
+
+/*im goimg to add a varible
+just a simple one*/
+
+let mood ="Unstoppable!"
+console.log(mood);
